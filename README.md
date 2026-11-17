@@ -50,8 +50,8 @@ Estudiante de la **Tecnicatura Universitaria en Programación**, enfocado en el 
   <!-- Racha de contribuciones (Servidor oficial demolab) -->
   <img src="https://streak-stats.demolab.com/?user=farreceygor&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
   <br/><br/>
-  <!-- Estadísticas de GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=farreceygor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+  <!-- Estadísticas de GitHub (Servidor extendido y optimizado sin límites de tasa) -->
+  <img src="https://github-stats-extended.vercel.app/api?username=farreceygor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
 </div>
 
 ---
