@@ -58,7 +58,7 @@ Estudiante de la **Tecnicatura Universitaria en Programación**, enfocado en el 
   <a href="mailto:arreceygorfabio@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Electrónico" />
   </a>
-  <a href="https://www.linkedin.com/in/fabio-arreceygor/" target="_blank">
+  <a href="https://www.linkedin.com/in/fabio-adriel-arreceygor-544b00258/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
